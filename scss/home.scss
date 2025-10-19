@@ -1,0 +1,134 @@
+
+.home {
+  max-width: 1500px;
+  height: 530px;
+  
+  background-color: #587C83;
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+margin-top: 158px;
+
+  
+
+ .img-holder {
+    width: 100%;
+    height: 530px;
+    //background-color: purple;
+    margin: 0 auto;
+    //position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    .img {
+    width: 1500px;
+    height: 530px;
+      
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:  url(../images/home-hero.jpg);
+    opacity: .6;
+    
+    
+    
+    }
+
+ .text {
+      max-width: 250px;
+      height: 50px;
+      position: absolute;
+      right: 182px;
+      top: 210px;
+      //background-color: yellow;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-evenly;
+      
+
+ h1 {
+        position: relative;
+        top: 210px;
+        margin: 0px;
+        margin-bottom: 30px;
+          font-size: 32;
+          font-weight: bold;
+      }
+      
+ p {
+        margin: 0px;
+        position: relative;
+        top: 210px;
+          width: 100%;
+          //background-color: pink;
+          font-size: 16;
+      }
+      
+  }
+}
+}
+
+.homeB {
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+text-align: center;
+flex-wrap: wrap;
+
+
+}
+
+.books {
+    display: flex;
+    margin-bottom: 150px;
+    //background-color: #000;
+    
+  }
+  .bookH{ 
+   .book-img {
+    width: 280px;
+    height: 225px;
+    //background-color: purple;
+    margin: 0 auto;
+    margin-top: 176px;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      object-position: top;
+    }
+  }
+
+ .book-info {
+    //background-color: rgb(244, 181, 244);
+    width: 280px;
+    margin-top: 49px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+
+  p {
+    height: 153px;
+  }
+
+  h1 {
+    margin: 0px;
+  }
+
+  button {
+    width: 222px;
+    height: 68px;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 46px;
+    margin-bottom: 188px;
+
+  }
+
+}

@@ -1,0 +1,201 @@
+.blog {
+    margin: 0 auto;
+    margin: 100px;
+    
+}
+
+.blog .sq1 {
+    height: 463px;
+    max-width: 1464px;
+    min-width: 270px;
+    margin: 0 auto;
+    background-color: #587C83;
+    margin-top: 117px;
+    
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+
+    .blog-info {
+        max-width: 750px;
+        height: 300px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        color: #fff;
+        margin-right: 10px;
+      
+
+        p {
+            max-width: 413px;
+        }
+
+        button {
+            width: 222px;
+            height: 68px;
+            background-color: #587C83;
+            margin-bottom: 0px;
+            border: solid 1px #fff;
+
+            a {
+                text-decoration: none;
+                color: #fff;
+            }
+
+        }
+    }
+
+    .blog-img{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 650px;
+        height: 380px;
+        gap: 20px;
+        
+        
+        .img1 {
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-image: url(../images/becoming.jpg);
+            width: 100%;
+            height: 100%;
+        }
+
+        .img2 {
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-image: url(../images/finding\ me.jpg);
+            width: 100%;
+            height: 100%;
+        }
+        
+    }
+}
+
+.blog .sq2 {
+    height: 463px;
+    max-width: 1464px;
+    min-width: 270px;
+    margin: 0 auto;
+    background-color: #587C83;
+    margin-top: 117px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 20px;
+    .blog-info {
+        max-width: 750px;
+        height: 300px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        color: #fff;
+        margin: 0 auto;
+        margin-right: 10px;
+        margin-right: 10px;
+
+        p {
+            max-width: 413px;
+        }
+
+        button {
+            width: 222px;
+            height: 68px;
+            background-color: #587C83;
+            margin-bottom: 0px;
+            border: solid 1px #fff;
+
+            a {
+                text-decoration: none;
+                color: #fff;
+            }
+
+        }
+    }
+
+    .blog-img{
+        height: 463px;
+        width: 626px;
+        .img{
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-image: url(../images/open-book-blog.jpg);
+            height: 100%;
+            width: 100%;
+        
+    }
+    }
+
+    
+    
+}
+
+.blog .sq3 {
+    height: 463px;
+    max-width: 1464px;
+    min-width: 270px;
+    margin: 0 auto;
+    background-color: #587C83;
+    margin-top: 117px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 140px;
+    gap: 20px;
+
+    .blog-info {
+        max-width: 750px;
+        height: 300px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        color: #fff;
+        margin: 0 auto;
+        margin-right: 10px;
+
+        p {
+            max-width: 413px;
+        }
+
+        button {
+            width: 222px;
+            height: 68px;
+            background-color: #587C83;
+            margin-bottom: 0px;
+            border: solid 1px #fff;
+
+            a {
+                text-decoration: none;
+                color: #fff;
+            }
+
+        }
+    }
+
+    .blog-img{
+        height: 463px;
+        width: 626px;
+        .img{
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-image: url(../images/ereading-blog.jpg);
+            height: 100%;
+            width: 100%;
+        
+    }
+    }
+}

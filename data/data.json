@@ -1,0 +1,168 @@
+{
+    "Home": [
+        {
+            "id": 0,
+            "featured": true,
+            "price": 15.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi. Massa vitae tortor condimentum lacinia quis vel eros.",
+            "cover_image": "../N315homework5/images/to-kill-a-mockingbird.jpg"
+            
+        },
+        {
+            "id": 1,
+            "featured": true,
+            "price": 25.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi. Massa vitae tortor condimentum lacinia quis vel eros.",
+            "cover_image": "../N315homework5/images/becoming.jpg"
+            
+        },
+        {
+            "id": 2,
+            "featured": true,
+            "price": 19.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend mi. Massa vitae tortor condimentum lacinia quis vel eros.",
+            "cover_image": "../N315homework5/images/firestarter.jpg"
+            
+        }
+
+    ],
+
+    "About": [
+        {
+            "id": 0,
+            "featured": true,
+            "title": "ABOUT THE BOOKNOOK",
+            "subtitle": "Founded in 2008",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. Turpis nunc eget lorem dolor. Sed viverra tellus in hac habitasse. Id aliquet risus feugiat in ante metus. Orci nulla pellentesque dignissim enim sit amet. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Tortor at risus viverra adipiscing at in. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Justo donec enim diam vulputate ut. Aliquam ut porttitor leo a diam. Sed id semper risus in hendrerit gravida rutrum quisque non. Pellentesque habitant morbi tristique senectus et netus et malesuada. In ornare quam viverra orci. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi. Sed vulputate mi sit amet mauris commodo quis imperdiet.",
+            "cover_image": "../N315homework5/images/about-photo.jpg"
+            
+        },
+        {
+            "id": 1,
+            "featured": true,
+            "title": "FIND THE PERFECT BOOK",
+            "subtitle": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. Turpis nunc eget lorem dolor. Sed viverra tellus in hac habitasse. Id aliquet risus feugiat in ante metus. Orci nulla pellentesque dignissim enim sit amet. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Tortor at risus viverra adipiscing at in. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Justo donec enim diam vulputate ut. Aliquam ut porttitor leo a diam. Sed id semper risus in hendrerit gravida rutrum quisque non. Pellentesque habitant morbi tristique senectus et netus et malesuada. In ornare quam viverra orci. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi. Sed vulputate mi sit amet mauris commodo quis imperdiet.",
+            "cover_image": "../N315homework5/images/about-photo-two.jpg"
+            
+        }
+
+    ],
+
+
+    "Booksets": [
+        {
+            "id": 0,
+            "featured": true,
+            "price": 99.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/twilight-box-set.jpg"
+            
+        },
+        {
+            "id": 1,
+            "featured": true,
+            "price": 100,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/hp-box-set.jpg"
+            
+        },
+        {
+            "id": 2,
+            "featured": true,
+            "price": 100,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/got-box-set.jpg"
+            
+        }
+        
+
+    ],
+
+    "BlackHM": [
+        {
+            "id": 0,
+            "featured": true,
+            "price": 27.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/finding me.jpg"
+            
+        },
+        {
+            "id": 1,
+            "featured": true,
+            "price": 19.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/mlk-biography.jpg"
+            
+        },
+        {
+            "id": 2,
+            "featured": true,
+            "price": 17.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/elenor-roosevelt-biography.jpg"
+            
+        }
+        
+
+    ],
+
+    "Horror": [
+        {
+            "id": 0,
+            "featured": true,
+            "price": 19.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/misery.jpg"
+            
+        },
+        {
+            "id": 1,
+            "featured": true,
+            "price": 15.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/frankenstein.jpg"
+            
+        },
+        {
+            "id": 2,
+            "featured": true,
+            "price": 19.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/phantoms.jpg"
+            
+        }
+        
+
+    ],
+
+    "Childrens": [
+        {
+            "id": 0,
+            "featured": true,
+            "price": 19.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/winnie the pooh.jpg"
+            
+        },
+        {
+            "id": 1,
+            "featured": true,
+            "price": 15.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/cat and the hat.jpg"
+            
+        },
+        {
+            "id": 2,
+            "featured": true,
+            "price": 17.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac.",
+            "cover_image": "../N315homework5/images/fun facts about space.jpg"
+            
+        }
+        
+
+    ]
+}

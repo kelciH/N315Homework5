@@ -1,0 +1,54 @@
+.ffavs {
+    margin: 20px;
+    .hero {
+        .hero-img {
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-image: url(../images/february-favorites-hero.jpg);
+            width: 1464px;
+            height: 463px;
+            
+            margin: 0 auto;
+            margin-top: 143px;
+            margin-bottom: 143px;
+        }
+    }
+
+    .info, .info1 {
+        display: flex;
+        //align-items: center;
+        justify-content: space-evenly;
+        //background-color: yellow;
+        
+        .img {
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-image: url(../images/becoming.jpg);
+            width: 250px;
+            height: 380px;
+            margin-bottom: 140px;
+        }
+
+        .img1 {
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-image: url(../images/finding\ me.jpg);
+            width: 250px;
+            height: 380px;
+            margin-bottom: 252px;
+        }
+
+        .text {
+            width: 1297px;
+            height: 380px;
+            //background-color: pink;
+
+            h1 {
+                margin-bottom: 58px;
+            }
+        }
+    }
+}

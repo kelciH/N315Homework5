@@ -1,0 +1,43 @@
+.about {
+  margin: 20px;
+}
+
+.bookA {
+    max-width: 1600px;
+    min-height: 600px;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 150px;
+    //background-color: #000;
+    margin-top: 170px;
+    
+  }
+  .bookA .book-img{
+    max-width: 393px;
+    max-height: 587px;
+  }
+  
+  .bookA .book-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: top;
+  }
+  
+  .bookA .book-info {
+    //background-color: rgb(244, 181, 244);
+    
+    max-width: 1134px;
+    height: 136px;
+    margin-left: 57px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+    h1 {
+      margin: 0px;
+      margin-bottom: 16px;
+    }
+    
+  }
